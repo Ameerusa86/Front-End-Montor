@@ -1,3 +1,5 @@
+![active-states](https://user-images.githubusercontent.com/46317379/221380491-d37a6330-b578-42c7-847c-6b0baba7655c.jpg)
+
 # Front-end Style Guide
 
 ## Layout
